@@ -26,6 +26,9 @@ img {
 main {
     margin: 0 20%;
 }
+nav {
+    width: 100%;
+}
 
 nav {
     background-color: beige;
